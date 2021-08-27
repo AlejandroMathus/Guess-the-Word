@@ -1,4 +1,4 @@
-LiveData - Solution Code
+Guess The Word - Solution code.
 ==================================
 
 This app is the solution code for Android Kotlin Fundamentals bootcamp: Guess the Word
